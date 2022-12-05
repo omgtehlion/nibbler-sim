@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+/vrEmuLcd/x64/Debug
+/vrEmuLcd/vrEmuLcd.vcxproj.user
+/vrEmuLcd/x64/Release
